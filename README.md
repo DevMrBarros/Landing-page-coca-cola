@@ -2,6 +2,10 @@
 
 Este é um projeto simples de página da web HTML que representa a página inicial da Coca-Cola. Este README fornece informações sobre como configurar e visualizar o projeto.
 
+## Link do projeto
+
+https://landing-page-coca-cola-theta.vercel.app/
+
 ## Pré-requisitos
 
 Para executar este projeto localmente, você precisará de um navegador da web.
