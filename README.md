@@ -35,7 +35,3 @@ Se você deseja contribuir para este projeto, sinta-se à vontade para criar uma
 ## Licença
 
 Este projeto é licenciado sob a Licença MIT - veja o arquivo [LICENSE.txt](LICENSE) para detalhes.
-
-## Créditos
-
-https://www.youtube.com/@FernandoLeonid
